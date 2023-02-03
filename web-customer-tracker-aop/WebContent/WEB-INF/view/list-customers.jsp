@@ -30,7 +30,7 @@
 				class="add-button"
 		/>
 		
-			<!-- add html tale -->
+			<!-- add html table -->
 			<table>
 				<tr>
 					<th>First Name</th>
